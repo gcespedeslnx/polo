@@ -1,4 +1,5 @@
 Hola mundo
+<<<<<<< HEAD
 esto
 es 
 una 
@@ -9,6 +10,15 @@ que
 se 
 esta 
 haciendo
+=======
+asadadas
+
+saddadsada
+asdasdad
+asddasdasd
+asdsadasdas
+sdasdasda
+>>>>>>> prueba3
 
 
 
